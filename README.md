@@ -19,5 +19,5 @@ A simple and scalable **RESTful API** built to integrate seamlessly with **React
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/react-native-rest-api.git
-   cd react-native-rest-api
+   git clone [https://github.com/PedroLaera/react-native-backend-api.git]
+
