@@ -1,0 +1,7 @@
+{
+  "APICategory": [
+    { "id": 1, "name": "Bebidas", "description": "Bebidas" },
+    { "id": 2, "name": "Lanches", "description": "Bebidas" },
+    { "id": 3, "name": "Sobremesas", "description": "Bebidas" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "react-native-backend-api",
+  "version": "1.0.0",
+  "description": "A simple and scalable RESTful API built to integrate seamlessly with React Native apps. Includes full CRUD operations, organized routes, authentication, and user/product management. Clean, documented code – perfect for learning, practicing, or kickstarting mobile projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroLaera/react-native-backend-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/PedroLaera/react-native-backend-api/issues"
+  },
+  "homepage": "https://github.com/PedroLaera/react-native-backend-api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
